@@ -5,4 +5,6 @@ EXPORTS
 	iDmacDrvDmaRead @3
 	iDmacDrvDmaWrite @4
 	iDmacDrvRegisterRead @5
-    iDmacDrvRegisterWrite @6
+    	iDmacDrvRegisterWrite @6
+	iDmacDrvRegisterBufferRead @7
+	iDmacDrvRegisterBufferWrite @8
