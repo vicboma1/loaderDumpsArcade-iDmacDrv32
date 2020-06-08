@@ -39,3 +39,8 @@ int __stdcall iDmacDrvRegisterBufferRead(int a1, DWORD BytesReturned, LPVOID lp,
 {
 	return 0;
 }
+
+int   __stdcall iDmacDrvProgramDownload()
+{
+	return 0;
+}
