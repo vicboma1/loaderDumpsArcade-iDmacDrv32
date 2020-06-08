@@ -8,3 +8,5 @@ EXPORTS
     	iDmacDrvRegisterWrite @6
 	iDmacDrvRegisterBufferRead @7
 	iDmacDrvRegisterBufferWrite @8
+	iDmacDrvProgramDownload @13
+
